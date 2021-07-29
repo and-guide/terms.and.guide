@@ -2,7 +2,7 @@
 taxonomy:
   category: 
     - test
-  post_tag:
+  tag:
     - plugin
 ---
 
